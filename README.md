@@ -16,5 +16,5 @@ A passionate AWS DevOps Engineer from India
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu1433697&layout=compact&theme=radical)
 
 ## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venu-gopal-avvaru-114535325)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avvarvenugopal32@gmail.com)
